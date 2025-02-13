@@ -1,0 +1,13 @@
+prefix=D:/MY WORKSPACE/Machine Learning/End-to-End ML project/ml_venv/Library
+exec_prefix=D:/MY WORKSPACE/Machine Learning/End-to-End ML project/ml_venv/Library
+libdir=D:/MY WORKSPACE/Machine Learning/End-to-End ML project/ml_venv/Library/lib
+sharedlibdir=D:/MY WORKSPACE/Machine Learning/End-to-End ML project/ml_venv/Library/lib
+includedir=D:/MY WORKSPACE/Machine Learning/End-to-End ML project/ml_venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
