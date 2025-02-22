@@ -1,0 +1,1 @@
+@dataclass is a decorator in Python that makes it easier to create classes that are mainly used to store data. It automatically adds special methods like __init__, __repr__, and __eq__ to your class, so you don’t have to write them yourself.

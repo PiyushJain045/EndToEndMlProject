@@ -1,4 +1,11 @@
 pandas
 seaborn
 numpy
--e . #triggers setup.py file
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+# -e . 
+#triggers setup.py to create package
+#triggers setup.py initially and at last when project is done
